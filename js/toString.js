@@ -1,4 +1,4 @@
-// To string
+// *****To string******
 
 // Number to string
 let value = 0;
